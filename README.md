@@ -42,8 +42,8 @@ http.createServer(function (req, res) {
 4. Abrir la consola, y dirigirse al directorio creado.
 5. ejecutar el comando: `node http_node.js`
 6. En el navegador abrir la dirección: `http://localhost:8080`
-7. Agregar un `/` y la palabra que se desee en la barra de direcciones.
-8. En el navegador verá la palabra que se ingresó en la barra de direcciones.
+7. Agregar un `/` y la palabra que se le ocurra  en la barra de direcciones.
+8. En el navegador verá la palabra que se ingresó en la barra de direcciones, desplegada dentro del navegador.
 
 Conclusión en mi equipo, el código crea y renderiza una página web. con el contenido de la url.
 Ni siquiera una linea de http en el código.
