@@ -48,6 +48,6 @@ http.createServer(function (req, res) {
 Conclusión en mi equipo, el código crea y renderiza una página web. con el contenido de la url.
 Ni siquiera una linea de http en el código.
 
-![](./screenshot1.png)
+![](screenshot1.png)
 
-![](./screenshot2.png)
+![](screenshot2.png)
