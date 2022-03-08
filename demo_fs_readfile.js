@@ -1,5 +1,5 @@
 // The Node.js file system module allows you to work with the file system on your computer.
-import var http = require('http');
+var http = require('http');
 var fs = require('fs');
 
 http.createServer(function (req, res) {
