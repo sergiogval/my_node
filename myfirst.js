@@ -1,5 +1,6 @@
 var http = require('http');
 var dt = require('./myfirstmodule');
+var fs = require('fs');
 var data = 'Hello Nodejs File System';
 
 
